@@ -41,11 +41,11 @@ pytesseract.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tessera
 
 1. Place your images in the input folder:
 
-folder_path = 'D:\YUSUF\Staj\BelgeOrnekleri\images'
+folder_path = ''
 
 2. Set the output folder for OCR results:
 
-results_folder_path = 'D:\YUSUF\Staj\BelgeOrnekleri\results'
+results_folder_path = ''
 
 3. Run the script:
 
